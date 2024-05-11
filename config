@@ -143,8 +143,8 @@ bindsym $mod+r mode "resize"
 
 
 ####################################################################################################
-# Changing colors which i3 uses to draw the window decorations
-# Class                 border  backgr. text    indicator child_border
+# changing colors which i3 uses to draw the window decorations
+# class                 border  backgr. text    indicator child_border
 client.focused          #285577 #285577 #ffffff #2e9ef4   #285577
 client.focused_inactive #5f676a #5f676a #ffffff #484e50   #5f676a
 client.unfocused        #222222 #222222 #888888 #292d2e   #222222
